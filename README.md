@@ -1,4 +1,4 @@
-# Using Socketio to create realtime chat app with react
+# Using socketio to create realtime chat app with react
 
 
 ## For client
